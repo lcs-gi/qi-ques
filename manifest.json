@@ -1,0 +1,21 @@
+{
+  "format": 2,
+  "version": 202611151913,
+  "minVersionCode": 1,
+  "files": {
+    "questions.qie": {
+      "sha256": "b0a0995d87eccf26b294aa4a861e88d5cf382b213c89f983c0a7ee913bd07a3d",
+      "size": 80947
+    },
+    "questions_en.qie": {
+      "sha256": "570d5930404c1090722cadb5bd2619967ac99731b1c8d6742279691c426bff5b",
+      "size": 74174
+    }
+  },
+  "images": {
+    "clou_arpentage.jpg": {
+      "sha256": "da532f001e114aab75422b85a20f4aa2d8900de87ee829dfd08e22bd686a5e5b",
+      "size": 388937
+    }
+  }
+}
